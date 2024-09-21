@@ -6,6 +6,6 @@ The statistical approach is known as Monte Carlo for photon transport. The codes
 
 The codes use MATLAB's Basic Functions and make use of MATLAB’s vectorized matrix and vector operations. The codes do not loop over the "photons" or use conditional statements. This vectorized approach allows for much faster runtimes when using MATLAB, albeit with larger memory requirements.
 
-These codes were used to compute some the simulation results contained in the manuscript "Reflectance of a narrow beam by a plane-parallel slab" by Boaz Ilan and Arnold D. Kim.
+These codes were used for some of results contained in the manuscript "Asymptotic behavior of the reflectance of a narrow beam by a plane-parallel slab" by Boaz Ilan and Arnold D. Kim.
 
 Boaz Ilan
