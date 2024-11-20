@@ -5,13 +5,13 @@ The statistical approach is known as Monte Carlo for photon transport. The codes
 
 These codes use MATLAB's Basic Functions and make use of MATLAB’s vectorized matrix and vector operations. The codes do not loop over the "photons" or use conditional statements. This vectorized approach allows for much faster runtimes using MATLAB, albeit with larger memory requirements.
 
-The codes provided here were used for the computational results in the manuscript "Asymptotic behavior of the reflectance of a narrow beam by a plane-parallel slab" by Boaz Ilan and Arnold D. Kim. 
+The codes provided here were used for the computational results in the paper "Asymptotic behavior of the reflectance of a narrow beam by a plane-parallel slab", by Boaz Ilan and Arnold D. Kim, published by the Journal of the Optical Society of Americca A, Vol. 41, No. 12, December 2024.
 
 Directory structure: 
 1. Top-level directory: contains most of the main scripts (see below).
 2. MVMC: Monte Carlo codes
 3. processing: binning and comparison with theory
-4.  data: results saved .mat files
+4. data: results saved .mat files
 5. plotting: plotting scripts
 6. figures: figures saved as .eps files
    
